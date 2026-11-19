@@ -23,7 +23,7 @@ The point: iterate with an agent without burning through a limited monthly Figma
 ## Install
 
 ```bash
-git clone <REPO_URL> figma-cache-mcp
+git clone https://github.com/abotalebie/Figma-Cache-MCP.git figma-cache-mcp
 cd figma-cache-mcp
 ./setup.sh
 ```
