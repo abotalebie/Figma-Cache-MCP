@@ -1,0 +1,26 @@
+# --- دادهٔ کش و خروجی فیگما (حجیم و حاوی محتوای محرمانهٔ طرح) ---
+cache/
+*.tmp
+
+# --- توکن‌ها و تنظیمات محلی ---
+token
+tokens.json
+.env
+.env.*
+
+# --- محیط مجازی و بایت‌کد ---
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# --- ابزارها و سیستم‌عامل ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
